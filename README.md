@@ -45,8 +45,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=babandeepsingh.babandeepsingh)
 
-
-
 <br />
 <br />
 
