@@ -52,7 +52,7 @@
 
 #### Github Stats
 
-![babandeepsingh's github stats](https://github-readme-stats.vercel.app/api?username=babandeepsingh&count_private=true&theme=tokyonight&hide=contribs,prs)
+![babandeepsingh's github stats](https://github-readme-stats.vercel.app/api?username=babandeepsingh&count_private=true&theme=tokyonight&hide=prs,stars)
 
 <br />
 <br />
