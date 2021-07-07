@@ -47,7 +47,15 @@
 
 
 
-<br >
+<br />
+<br />
+
+#### Github Stats
+
+![babandeepsingh's github stats](https://github-readme-stats.vercel.app/api?username=babandeepsingh&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+<br />
+<br />
 
 <!---
 babandeepsingh/babandeepsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
