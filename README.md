@@ -5,7 +5,7 @@
 <br />
 <br />
 [![Linkedin Badge](https://img.shields.io/badge/-Babandeep-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babandeep/) [![Mail Badge](https://img.shields.io/badge/-@b_a_b_a_n_d_e_e_p-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/b_a_b_a_n_d_e_e_p) [![Mail Badge](https://img.shields.io/badge/-er.babandeep-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:er.babandeep@gmail.com)
-- 🔭 I’m currently working as Software develop
+- 🔭 I’m currently working as Software develop at NTT Ltd.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: er.babandeep@gmail.com.
 - 🌱 I’m currently learning NodeJS, MongoDB, Express
